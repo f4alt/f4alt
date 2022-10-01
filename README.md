@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center" style="color:#39ff14;font-size:40;">
-  <a href="https://github.com/f4alt/readme-typing-svg"><img alt="Welcome to my profile!" style="cursor:default;" src="https://readme-typing-svg.demolab.com/?lines=Howdy, I'm Christopher;Welcome to my profile;Always breaking something;Always learning new things&font=Fira%20Code&center=false&width=620&height=38&color=39ff14&vCenter=true&size=40&pause=1000"></a>
+  <a href="https://github.com/readme-typing-svg"><img alt="Welcome to my profile!" style="cursor:default;" src="https://readme-typing-svg.demolab.com/?lines=Howdy, I'm Christopher;Welcome to my profile;Always breaking something;Always learning new things&font=Fira%20Code&center=false&width=620&height=38&color=39ff14&vCenter=true&size=40&pause=1000"></a>
 </p>
 
 ```c++
