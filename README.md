@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center" style="color:#39ff14;font-size:40;">
-  <a href="https://github.com/readme-typing-svg"><img alt="Welcome to my profile!" style="cursor:default;" src="https://readme-typing-svg.demolab.com/?lines=Howdy, I'm Christopher;Welcome to my profile;Always breaking something;Always learning new things&font=Fira%20Code&center=false&width=620&height=38&color=39ff14&vCenter=true&size=40&pause=1000"></a>
+<a href="https://github.com/readme-typing-svg"><img alt="Welcome to my profile!" style="cursor:default;" src="https://readme-typing-svg.demolab.com/?lines=>+Howdy,+I'm+Christopher;>+Welcome+to+my+profile;&font=Fira%20Code&center=false&width=620&height=38&color=39ff14&vCenter=true&size=40&pause=1000"></a>
 </p>
 
 ```c++
@@ -32,7 +32,7 @@ int main() {
 ```
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div style="display:flex;justify-content:center;align-items:center;flex-direction:column;">
+<div align="center" style="display:flex;justify-content:center;align-items:center;flex-direction:column;">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="f4alt's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=f4alt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=39ff14&icon_color=3333ff" height="192px"/></a>
 <details> 
   <summary open style="cursor:pointer;">
