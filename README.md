@@ -1,5 +1,5 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center" style="color:#39ff14;font-size:40;">
+<p align="center" style="color:#39ff14;font-size:40;padding-top:10px">
 <a href="https://github.com/readme-typing-svg"><img alt="Welcome to my profile!" style="cursor:default;" src="https://readme-typing-svg.demolab.com/?lines=>+Howdy,+I'm+Christopher;>+Welcome+to+my+profile;&font=Fira%20Code&center=false&width=620&height=38&color=39ff14&vCenter=true&size=40&pause=1000"></a>
 </p>
 
