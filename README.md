@@ -28,5 +28,3 @@ class profile {
         void print() const { /* TODO/FIME */ }
 };
 ```
-
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg,#39ff14,#3333ff,#39ff14);" />
